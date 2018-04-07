@@ -1,5 +1,7 @@
 # BBVA Plan
 
+![BBVA Plan](assets/images/bbva-plan.png)
+
 ### Objetivo
 
 Investigar y desarrollar la oportunidad de agregar la funcionalidad de "metas compartidas" en el app de BBVA Plan. También con el objetivo de utilizarlo como una herramienta de crecimiento al buscar involucrar usuarios que no tienen BBVA Plan o una cuenta de BBVA Bancomer.
@@ -27,7 +29,7 @@ El servicio ofrece:
 * Sugerencia de ahorro personalizado de acuerdo a la meta y a los hábitos del usuario.
 * Hacer uso de cualquier tipo de tarjeta débito, crédito o nómina.
 * Puedes disponer del ahorro siempre que quieras.
-* El plan es totalmente <strong>*GRATUITO*.
+* El plan es totalmente <strong>*GRATUITO*</strong>.
 
 La app ofrece:
 * Tener un seguimiento de tu ahorro, para conocer la cantidad que te falta para llegar a tu meta.
