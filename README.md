@@ -63,6 +63,6 @@ Entendiendo sobre ellos, buscar el público que creemos que podrían interesarse
 
 La encuesta fue lanzada en canales como Facebook, con un mensaje amigable para ver si creabamos interés en la gente.
 
-![Encuesta](assets/images/encuesta.png)
+![Encuesta](assets/images/Encuesta.png)
 
 [Encuesta de Google Forms](https://goo.gl/forms/h22kI5WfJ4Vkvlw72)
