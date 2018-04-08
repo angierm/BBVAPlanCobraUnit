@@ -36,3 +36,33 @@ La app ofrece:
 * Llevar control de tus movimientos y la cantidad destinada a tus ahorros.
 * La meta puede ser editada.
 * Escoger más de una tarjeta para ahorrar más.
+
+![Plan de ahorro](assets/images/BBVAPlanAhorro.png)
+
+## Objetivo 1: Agregar funcionalidad de metas compartidas en la app de BBVA Plan
+
+Cuando pensamos en añadir la nueva funcionalidad de "metas compartidas" entre el equipo surgieron dudas como:
+- ¿Qué hace la gente para ahorrar?
+- ¿Por qué razones lo hace?
+- ¿Quiénes utilizan BBVA Plan?
+- ¿Quién sería capaz de utilizar una meta compartida?
+
+Y sabiendo eso, cómo hacer que la gente confíe en BBVA Plan como un método de ahorro compartido.
+
+Entre nuestras investigaciones nos dimos cuenta que hay muy poca cultura sobre el ahorro entre la población mexicana. Los mexicanos no ahorran y en muchas ocasiones, no es porque no tengan el poder adquisitivo, simplemente las personas no saben cómo ahorrar o para qué hacerlo.
+
+Sin embargo, las personas ocupan otro tipo de herramientas y métodos para salir de sus apuros, cumplir con un objetivo o anticipar gastos próximos. Métodos como pedir prestamos, participar en tandas o guardar el dinero con otras personas.
+
+Pensando en eso, dirijimos toda nuestra atención a entender lo que era BBVA Plan, y pensar en quién era el público de esta aplicación.
+
+<!-- ![User persona]() -->
+
+<!-- ![User persona]() -->
+
+Entendiendo sobre ellos, buscar el público que creemos que podrían interesarse en la app y en metas compartidas. Para lograrlo, el equipo lanzó una primera encuesta, con el objetivo de entender a estos usuarios que aún no cuentan con una cuenta bancaria o que desconocen la existencia de BBVA Plan. Y saber un poco sobre sus hábitos de ahorro.
+
+La encuesta fue lanzada en canales como Facebook, con un mensaje amigable para ver si creabamos interés en la gente.
+
+![Encuesta](assets/images/encuesta.png)
+
+[Encuesta de Google Forms](https://goo.gl/forms/h22kI5WfJ4Vkvlw72)
