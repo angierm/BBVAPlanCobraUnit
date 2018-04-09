@@ -55,7 +55,7 @@ Sin embargo, las personas ocupan otro tipo de herramientas y métodos para salir
 
 Pensando en eso, dirijimos toda nuestra atención a entender lo que era BBVA Plan, y pensar en quién era el público de esta aplicación.
 
-<!-- ![User persona]() -->
+![User persona](assets/images/user-persona.jpg)
 
 <!-- ![User persona]() -->
 
